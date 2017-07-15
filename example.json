@@ -1,0 +1,50 @@
+{
+    "ok": True,
+    "result": [
+        {
+            "update_id": 59375453,
+            "message": {
+                "message_id": 1,
+                "from": {
+                    "id": 425928084,
+                    "first_name": "Gonzalo",
+                    "last_name": "Hernandez"
+                },
+                "chat": {
+                    "id": 425928084,
+                    "first_name": "Gonzalo",
+                    "last_name": "Hernandez",
+                    "type": "private"
+                },
+                "date": 1500138387,
+                "text": "/start",
+                "entities": [
+                    {
+                        "type": "bot_command",
+                        "offset": 0,
+                        "length": 6
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 59375454,
+            "message": {
+                "message_id": 2,
+                "from": {
+                    "id": 425928084,
+                    "first_name": "Gonzalo",
+                    "last_name": "Hernandez", "language_code": "en-US"
+                },
+                "chat": {
+                    "id": 425928084,
+                    "first_name": "Gonzalo",
+                    "last_name": "Hernandez",
+                    "type": "private"
+                },
+                "date": 1500157000,
+                "text": "Hola"
+            }
+        }
+    ]
+}
